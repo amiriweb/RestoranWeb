@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var watch = require('gulp-watch');
+var debug = require('gulp-debug');
 var browserSync = require('browser-sync').create();
 
 
